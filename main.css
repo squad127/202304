@@ -1,0 +1,87 @@
+.header {
+
+}
+
+.body {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+}
+
+.titlebox {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+}
+
+#profile {
+    width: 150px;
+    height: 150px;
+    border-radius: 30%;
+}
+
+.link1 {
+    text-align: center;
+}
+
+.button1 {
+    width: 100%;
+    background-color: rgb(150, 211, 235);
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+}
+
+#link1 {
+    color: white;
+    font-size: 25px;
+    text-decoration-line: none;
+}
+
+
+
+.link2 {
+    text-align: center;
+}
+
+.button2 {
+    width: 100%;
+    background-color: rgb(150, 211, 235);
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+}
+
+#link2 {
+    color: white;
+    font-size: 25px;
+    text-decoration-line: none;
+}
+
+
+
+.tail {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    color: skyblue;
+    border-radius: 10px;
+    border: 1px solid skyblue;
+    text-align: center;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+}
+
+#taillink {
+    color: skyblue;
+    font-size: 15px;
+    text-decoration-line: none;
+}
